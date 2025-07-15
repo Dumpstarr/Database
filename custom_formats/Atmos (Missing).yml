@@ -25,16 +25,6 @@ conditions:
   pattern: BTN Atmos
   required: true
   type: release_title
-- name: Not DD
-  type: release_title
-  required: true
-  negate: true
-  pattern: Dolby Digital
-- name: Not DD+
-  type: release_title
-  required: true
-  negate: true
-  pattern: Dolby Digital +
 tests:
 - conditionResults:
   - matches: false

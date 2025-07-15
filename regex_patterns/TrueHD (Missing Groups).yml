@@ -1,5 +1,5 @@
 name: TrueHD (Missing Groups)
-pattern: True[ .-]?HD|W4NK3R|HQMUX|TRiToN|EPSiLON|NoGroup|PmP.
+pattern: (?<=^|[\s.-])TRiToN|EPSiLON|NoGroup|PmP\b
 description: Matches groups who mislabel TrueHD
 tags:
 - Audio

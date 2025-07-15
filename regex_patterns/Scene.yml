@@ -1,5 +1,5 @@
 name: Scene
-pattern: ^(?=.*(\\b\\d{3,4}p\\b).*([_. ]WEB[_. ])(?!DL)\\b)|\\b(-CAKES|-GGEZ|-GGWP|-GLHF|-GOSSIP|-NAISU|-KOGI|-PECULATE|-SLOT|-EDITH|-ETHEL|-ELEANOR|-B2B|-SPAMnEGGS|-FTP|-DiRT|-SYNCOPY|-BAE|-SuccessfulCrab|-NHTFS|-SURCODE|-B0MBARDIERS)
+pattern: (?<=^|[\s.-])SPARKS|DRONES|ROVERS|SPRINTER|GECKOS|SHORTBREHD|EDITH|FilmHD|POW4HD|HD4U|TENEIGHTY|ETHEL\b
 description: Matches Scene Groups
 tags: []
 tests: []

@@ -20,8 +20,8 @@ conditions:
   required: false
   type: release_group
 - name: LAZY
+  type: release_group
+  required: false
   negate: false
   pattern: LAZY
-  required: false
-  type: release_group
 tests: []

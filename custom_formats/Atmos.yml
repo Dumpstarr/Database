@@ -14,41 +14,6 @@ conditions:
   pattern: BTN Atmos
   required: false
   type: release_title
-- name: Not DD
-  negate: true
-  pattern: Dolby Digital
-  required: true
-  type: release_title
-- name: Not DD+
-  negate: true
-  pattern: Dolby Digital +
-  required: true
-  type: release_title
-- name: Not TrueHD
-  negate: true
-  pattern: TrueHD
-  required: true
-  type: release_title
-- name: Not DTS
-  type: release_title
-  required: true
-  negate: true
-  pattern: DTS
-- name: Not DTS-X
-  type: release_title
-  required: true
-  negate: true
-  pattern: DTS-X
-- name: Not DTS-HD HRA ES
-  type: release_title
-  required: true
-  negate: true
-  pattern: DTS-HD HRA ES
-- name: Not DTS-HD
-  type: release_title
-  required: true
-  negate: true
-  pattern: DTS-HD
 tests:
 - conditionResults:
   - matches: false

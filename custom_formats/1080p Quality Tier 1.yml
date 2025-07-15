@@ -12,10 +12,10 @@ conditions:
   resolution: 1080p
   type: resolution
 - name: Not WEB-DL
-  negate: true
-  required: true
-  source: web_dl
   type: source
+  required: true
+  negate: true
+  source: web_dl
 - name: DON
   negate: false
   pattern: DON
@@ -31,28 +31,4 @@ conditions:
   pattern: EbP
   required: false
   type: release_group
-tests:
-- conditionResults:
-  - matches: true
-    name: DON
-    negate: false
-    pattern: DON
-    required: false
-    type: release_group
-  - matches: false
-    name: D-Z0N3
-    negate: false
-    pattern: D-Z0N3
-    required: false
-    type: release_group
-  - matches: false
-    name: EbP
-    negate: false
-    pattern: EbP
-    required: false
-    type: release_group
-  expected: true
-  id: 1
-  input: Anastasia (1997) {imdb-tt0118617} [Bluray-1080p][DTS 5.1][x264]-DON.mkv
-  lastRun: '2025-07-01T15:50:56.670660'
-  passes: true
+tests: []
