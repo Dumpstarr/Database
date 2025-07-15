@@ -51,6 +51,10 @@ custom_formats:
   score: 950
 - name: 720p Quality Tier 5
   score: 950
+- name: IMAX
+  score: 800
+- name: IMAX Enhanced
+  score: 800
 - name: hallowed
   score: 700
 - name: Dolby Digital +

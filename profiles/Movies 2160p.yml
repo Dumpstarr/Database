@@ -69,6 +69,10 @@ custom_formats:
   score: 850
 - name: 2160p Quality Tier 6
   score: 800
+- name: IMAX
+  score: 800
+- name: IMAX Enhanced
+  score: 800
 - name: 2160p Quality Tier 7
   score: 750
 - name: hallowed
