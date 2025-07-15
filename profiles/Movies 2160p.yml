@@ -79,6 +79,8 @@ custom_formats:
   score: 500
 - name: HDR10
   score: 500
+- name: HDR10 (Missing)
+  score: 500
 - name: HLG
   score: 500
 - name: PQ
@@ -138,6 +140,8 @@ custom_formats:
 - name: Special Edition (Banned)
   score: -10000
 - name: TrueHD
+  score: -10000
+- name: TrueHD (Missing)
   score: -10000
 - name: Upscaled
   score: -10000

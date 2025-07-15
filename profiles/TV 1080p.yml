@@ -47,6 +47,8 @@ custom_formats:
   score: 50
 - name: iT
   score: 50
+- name: iT (Missing)
+  score: 50
 - name: SHO
   score: 50
 - name: Uncensored
