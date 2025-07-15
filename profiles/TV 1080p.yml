@@ -59,11 +59,15 @@ custom_formats:
   score: 5
 - name: AV1
   score: -10000
+- name: Banned Groups
+  score: -10000
+- name: Banned WEB-DL (x265)
+  score: -10000
+- name: Banned WEBRip
+  score: -10000
 - name: Extras
   score: -10000
-- name: UnWanted Release Groups
-  score: -10000
-- name: UnWanted WEBRip Groups
+- name: Special Edition (Banned)
   score: -10000
 qualities:
 - id: -2

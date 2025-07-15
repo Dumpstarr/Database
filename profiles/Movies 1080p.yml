@@ -73,17 +73,21 @@ custom_formats:
   score: 6
 - name: Repack1
   score: 5
-- name: HDR10 (Missing)
-  score: 0
-- name: SDR
-  score: 0
 - name: 3D
   score: -10000
 - name: Atmos
   score: -10000
+- name: Atmos (Missing)
+  score: -10000
 - name: AV1
   score: -10000
 - name: B&W
+  score: -10000
+- name: Banned Groups
+  score: -10000
+- name: Banned WEB-DL (x265)
+  score: -10000
+- name: Banned WEBRip
   score: -10000
 - name: BCORE
   score: -10000
@@ -95,13 +99,9 @@ custom_formats:
   score: -10000
 - name: Lossless Audio (1080p)
   score: -10000
-- name: Special Edition (UnWanted)
+- name: Special Edition (Banned)
   score: -10000
 - name: TrueHD
-  score: -10000
-- name: UnWanted Release Groups
-  score: -10000
-- name: UnWanted WEBRip Groups
   score: -10000
 - name: Upscaled
   score: -10000
