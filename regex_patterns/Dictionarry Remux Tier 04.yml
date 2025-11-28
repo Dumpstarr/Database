@@ -1,5 +1,5 @@
 name: Dictionarry Remux Tier 04
-pattern: (?<=^|[\s.-])(126811|BTN|iFT|KRaLiMaRKo|playBD|PTP|TRiToN)\b
+pattern: (?<=^|[\s.-])(BTN|iFT|KRaLiMaRKo|playBD|PTP|TRiToN)\b
 description: ''
 tags:
 - Release Group Tier

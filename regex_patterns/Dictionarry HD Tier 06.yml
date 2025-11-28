@@ -1,5 +1,5 @@
 name: Dictionarry HD Tier 06
-pattern: (?<=^|[\s.-])(EuReKA|HANDJOB|HDC|iON|Ivandro|KnG|LEGi0N|Lulz|MaG|MTeam|NiP|P0W4HD|PTP|ROCiNANTE|Slappy|ThD|WiKi|WiLDCAT)\b
+pattern: (?<=^|[\s.-])(BRUTE|EuReKA|GALVANiZE|HaB|HANDJOB|HDC|iON|Ivandro|j3rico|KnG|LEGi0N|Lulz|MaG|MTeam|NiP|P0W4HD|PTP|ROCiNANTE|Slappy|ThD|WiKi|WiLDCAT)\b
 description: ''
 tags:
 - Release Group Tier
