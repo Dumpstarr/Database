@@ -46,7 +46,7 @@ Our profiles are loosely based on the structure of the **SQP-1 Alternative (Rada
 
 We include several specific fixes and features for common media-sourcing annoyances:
 
-* ✅ **Automatic Sync** of the Dictionarry Group Tiers.
-* ✅ **Parks and Recreation Fix:** Correctly sources releases from NTb.
-* ✅ **Scrubs Fix:** Avoids 25fps PAL versions.
-* ✅ **HONE Fix:** Corrects issues with releases that have bad naming conventions. (Must be manually added to any profile)
+* **Automatic Sync** of the Dictionarry Group Tiers.
+* **Parks and Recreation Fix:** Correctly sources releases from NTb.
+* **Scrubs Fix:** Avoids 25fps PAL versions.
+* **HONE Fix:** Corrects issues with releases that have bad naming conventions. (Must be manually added to any profile)
