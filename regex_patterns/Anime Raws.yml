@@ -1,5 +1,5 @@
 name: Anime Raws
-pattern: (?i)(?:^|[^A-Za-z0-9])(?:AsukaRaws|Beatrice-Raws|Daddy-Raws|Fumi-Raws|IrizaRaws|Kawaiika-Raws|km|Koi-Raws|Lilith-Raws|LowPower-Raws|Moozzi2|NanakoRaws|NC-Raws|neko-raws|New-raws|Ohys-Raws|Pandoratv-Raws|Raws-Maji|ReinForce|Scryous-Raws|Seicher-Raws|Shiniori-Raws)(?:[^A-Za-z0-9]|$)
+pattern: (?i)(?:^|[^A-Za-z0-9])(?:AsukaRaws|Beatrice-Raws|Erai-raws|Daddy-Raws|Fumi-Raws|IrizaRaws|Kawaiika-Raws|km|Koi-Raws|Lilith-Raws|LowPower-Raws|Moozzi2|NanakoRaws|NC-Raws|neko-raws|New-raws|Ohys-Raws|Pandoratv-Raws|Raws-Maji|ReinForce|Scryous-Raws|Seicher-Raws|Shiniori-Raws)(?:[^A-Za-z0-9]|$)
 description: ''
 tags:
 - Anime
