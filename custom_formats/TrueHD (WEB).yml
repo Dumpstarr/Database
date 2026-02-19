@@ -5,7 +5,7 @@ tags:
 - Audio
 conditions:
 - name: WEB-DL
-  negate: true
+  negate: false
   required: true
   source: web_dl
   type: source
