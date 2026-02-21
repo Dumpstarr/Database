@@ -1,7 +1,0 @@
-name: HDW
-pattern: (?<=^|[\s.-])HDW\b
-description: ''
-tags:
-- Release Group
-- Banned
-tests: []

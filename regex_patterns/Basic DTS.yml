@@ -1,7 +1,0 @@
-name: Basic DTS
-pattern: DTS[ .]?[1-9]
-description: ''
-tags:
-- Audio
-- Codec
-tests: []

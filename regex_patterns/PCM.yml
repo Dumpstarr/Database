@@ -1,7 +1,0 @@
-name: PCM
-pattern: \b(l?)PCM(\b|\d)
-description: ''
-tags:
-- Audio
-- Codec
-tests: []

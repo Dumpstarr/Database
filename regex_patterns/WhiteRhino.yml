@@ -1,7 +1,0 @@
-name: WhiteRhino
-pattern: (?<=^|[\s.-])WhiteRhino\b
-description: ''
-tags:
-- Release Group
-- Bluray
-tests: []

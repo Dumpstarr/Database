@@ -1,7 +1,0 @@
-name: TRaSH Anime Bluray Tier 1
-pattern: (?i)(?:^\[|(?<=-)|(?<=\[))(?:Aergia|Arg0|Legion|LYS1TH3A|OZR|sam|SCY|smol|SoM|Vanilla|Vodes|ZeroBuild)(?:\]|\b|$)
-description: TRaSH Guides Anime Tier 01 (Top SeaDex Muxers)
-tags:
-- Anime
-- Release Group
-tests: []

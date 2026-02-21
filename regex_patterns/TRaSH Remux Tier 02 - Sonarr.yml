@@ -1,7 +1,0 @@
-name: TRaSH Remux Tier 02 - Sonarr
-pattern: (?<=^|[\s.-])(decibeL|EPSiLON|HiFi|KRaLiMaRKo|playBD|PTer|SiCFoI|TRiToN)\b
-description: ''
-tags:
-- TRaSH
-- Release Group Tier
-tests: []

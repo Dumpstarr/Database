@@ -1,7 +1,0 @@
-name: Dictionarry HD Tier 06
-pattern: (?<=^|[\s.-])(ASD87|BRUTE|CHD|EuReKA|GALVANiZE|HaB|HANDJOB|HDC|iON|Ivandro|j3rico|KnG|LEGi0N|Lulz|MaG|MTeam|NiP|P0W4HD|PTP|PuTao|ROCiNANTE|Slappy|ThD|WiKi|WiLDCAT)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

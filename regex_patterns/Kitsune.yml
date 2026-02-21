@@ -1,7 +1,0 @@
-name: Kitsune
-pattern: (?<=^|[\s.-])Kitsune\b
-description: ''
-tags:
-- Release Group
-- WEB-DL
-tests: []

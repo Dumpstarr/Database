@@ -1,6 +1,0 @@
-name: UK
-pattern: \bUK\b
-description: Matches United Kingdom versions
-tags:
-- Version
-tests: []

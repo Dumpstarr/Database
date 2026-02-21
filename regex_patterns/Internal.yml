@@ -1,7 +1,0 @@
-name: Internal
-pattern: \b(INTERNAL)\b
-description: Those who prefer scene releases may want to boost internals, as they
-  generally have higher settings that may not conform to the ruleset.
-tags:
-- TRaSH
-tests: []

@@ -1,7 +1,0 @@
-name: MgB
-pattern: (?<=^|[\s.-])MgB\b
-description: Banned for Mislabeled 2160p WEBRips
-tags:
-- Release Group
-- WEB-DL
-tests: []

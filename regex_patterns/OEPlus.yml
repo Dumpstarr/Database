@@ -1,7 +1,0 @@
-name: OEPlus
-pattern: (?<=^|[\s.-])OEPlus\b
-description: Banned for Automated Encodes
-tags:
-- Release Group
-- Banned
-tests: []

@@ -1,7 +1,0 @@
-name: IAMABLE
-pattern: (?<=^|[\s.-])IAMABLE\b
-description: ''
-tags:
-- Release Group
-- Bluray
-tests: []

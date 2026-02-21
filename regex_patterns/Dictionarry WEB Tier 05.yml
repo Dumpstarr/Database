@@ -1,7 +1,0 @@
-name: Dictionarry WEB Tier 05
-pattern: (?<=^|[\s.-])(CRUD|GNOME|NINJACENTRAL|PHOENiX|ROCCaT|SiGMA|SwAgLaNdEr)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

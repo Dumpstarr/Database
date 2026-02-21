@@ -1,7 +1,0 @@
-name: TRaSH Anime WEB Tier 6
-pattern: (?i)(?:^\[|(?<=-)|(?<=\[))(?:Asenshi|Chihiro|Commie|DameDesuYo|Doki|KawaSubs|Tsundere)(?:\]|\b|$)
-description: TRaSH Guides Anime Web Tier 06 (FanSubs)
-tags:
-- Anime
-- Release Group
-tests: []

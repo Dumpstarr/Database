@@ -1,8 +1,0 @@
-name: Atmos
-pattern: \bATMOS(\b|\d)
-description: ''
-tags:
-- Audio
-- Codec
-- TRaSH
-tests: []

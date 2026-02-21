@@ -1,7 +1,0 @@
-name: LSt
-pattern: (?<=^|[\s.-])LSt\b
-description: ''
-tags:
-- Release Group
-- HEVC
-tests: []

@@ -1,7 +1,0 @@
-name: Dictionarry UHD Tier 01
-pattern: (?<=^|[\s.-])(DON|REBORN|SA89|SoLaR)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

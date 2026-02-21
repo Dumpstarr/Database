@@ -1,7 +1,0 @@
-name: DTS
-pattern: \bDTS(\b|\d)
-description: ''
-tags:
-- Audio
-- Codec
-tests: []

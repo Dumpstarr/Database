@@ -1,7 +1,0 @@
-name: Dictionarry HD Tier 01
-pattern: (?<=^|[\s.-])(coffee|DON|REBORN|SA89|SoLaR|TeamSyndicate|ZoroSenpai)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

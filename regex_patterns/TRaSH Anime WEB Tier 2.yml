@@ -1,7 +1,0 @@
-name: TRaSH Anime WEB Tier 2
-pattern: (?i)(?:^\[|(?<=-)|(?<=\[))(?:0x539|Asakura|Cyan|Cytox|Dae|Foxtrot|Gao|Half-Baked|HatSubs|MALD|MTBB|Not-Vodes|Okay-Subs|Pizza|Reza|Slyfox|SoLCE|Tenshi)(?:\]|\b|$)
-description: TRaSH Guides Anime Web Tier 02 (Top FanSubs)
-tags:
-- Anime
-- Release Group
-tests: []

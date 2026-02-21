@@ -1,8 +1,0 @@
-name: Bluray 3D
-pattern: \b(BluRay3D)\b
-description: ''
-tags:
-- TRaSH
-- Banned
-- Enhancement
-tests: []

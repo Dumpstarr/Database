@@ -1,7 +1,0 @@
-name: CRiSC
-pattern: (?<=^|[\s.-])CRiSC\b
-description: ''
-tags:
-- Release Group
-- Bluray
-tests: []

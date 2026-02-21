@@ -1,7 +1,0 @@
-name: iVy
-pattern: (?<=^|[\s.-])iVy\b
-description: ''
-tags:
-- Release Group
-- Banned
-tests: []

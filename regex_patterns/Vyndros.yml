@@ -1,7 +1,0 @@
-name: Vyndros
-pattern: (?<=^|[\s.-])Vyndros\b
-description: ''
-tags:
-- Release Group
-- HEVC
-tests: []

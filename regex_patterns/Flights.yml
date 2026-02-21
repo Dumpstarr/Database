@@ -1,7 +1,0 @@
-name: Flights
-pattern: \b(Flights)\b
-description: Banned for Fake DV/HDR Layer
-tags:
-- Release Group
-- TRaSH
-tests: []

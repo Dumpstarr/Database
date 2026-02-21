@@ -1,7 +1,0 @@
-name: ADN
-pattern: \b(ADN)\b
-description: ''
-tags:
-- Anime
-- Streaming Service
-tests: []

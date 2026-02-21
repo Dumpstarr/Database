@@ -1,6 +1,0 @@
-name: DTS-HD MA (Missing Groups)
-pattern: (?<=^|[\s.-])IAMABLE\b
-description: Matches groups who mislabel DTS-HD MA
-tags:
-- Audio
-tests: []

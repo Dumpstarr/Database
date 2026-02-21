@@ -1,7 +1,0 @@
-name: 3L
-pattern: (?<=^|[\s.-])3L\b
-description: ''
-tags:
-- Release Group
-- Remux
-tests: []

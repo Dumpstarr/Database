@@ -1,6 +1,0 @@
-name: EVO (no WEB-DL)
-pattern: (?<=\b[12]\d{3}\b.*?)(?<!\b(web[ ._-]?(dl|rip)?).*?)\b(EVO)\b
-description: ''
-tags:
-- Release Group
-tests: []

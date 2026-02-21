@@ -1,7 +1,0 @@
-name: Dictionarry 480p Tier 03
-pattern: (?<=^|[\s.-])(EDPH|GS88|KnG|playSD|PTer|rttr)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

@@ -1,6 +1,0 @@
-name: Dumpstarr SIDCA Groups
-pattern: (?<=^|[\s.-])(ELiTE|MeGusta|PSA)\b
-description: ''
-tags:
-- LQ
-tests: []

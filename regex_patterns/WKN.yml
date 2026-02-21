@@ -1,7 +1,0 @@
-name: WKN
-pattern: \b(WKN|Waka(nim)?)\b
-description: ''
-tags:
-- Anime
-- Streaming Service
-tests: []

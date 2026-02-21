@@ -1,7 +1,0 @@
-name: SWTYBLZ
-pattern: \b(SWTYBLZ)\b
-description: ''
-tags:
-- Release Group
-- Bluray
-tests: []

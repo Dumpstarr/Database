@@ -1,7 +1,0 @@
-name: Dumpstarr Anime Tier 1
-pattern: (?i)(?:^\[|(?<=-)|(?<=\[))(?:Ember|Judas|ASW)(?:\]|\b|$)
-description: ''
-tags:
-- Anime
-- Release Group
-tests: []

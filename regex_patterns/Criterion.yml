@@ -1,6 +1,0 @@
-name: Criterion
-pattern: \b(CC)\b
-description: ''
-tags:
-- TRaSH
-tests: []

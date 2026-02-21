@@ -1,7 +1,0 @@
-name: Dictionarry 720p Tier 05
-pattern: (?<=^|[\s.-])(ATELiER|BV|Chotab|de[42]|E.N.D|EA|EDPH|ESiR|FraMeSToR|GS88|HDMaNiAcS|HiP|iFT|KASHMiR|LiNG|LoRD|nmd|NyHD|ORiGEN|playHD|RiCO|RO|rttr|SaNcTi|SPHD|TnP|W4NK3R|WiLF|WMING|ZIMBO)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

@@ -1,7 +1,0 @@
-name: Comedy Central
-pattern: \b(CC)\b[ ._-]web[ ._-]?(dl|rip)?\b
-description: ''
-tags:
-- TRaSH
-- Streaming Service
-tests: []

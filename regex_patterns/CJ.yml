@@ -1,7 +1,0 @@
-name: CJ
-pattern: (?<=^|[\s.-])CJ\b
-description: ''
-tags:
-- Release Group
-- Bluray
-tests: []

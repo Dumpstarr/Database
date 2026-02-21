@@ -1,6 +1,0 @@
-name: American Sign Language
-pattern: \b(ASL)\b
-description: ''
-tags:
-- Banned
-tests: []

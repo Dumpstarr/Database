@@ -1,7 +1,0 @@
-name: ReQuEsT
-pattern: (?<=^|[\s.-])ReQuEsT\b
-description: ''
-tags:
-- Release Group
-- Bluray
-tests: []

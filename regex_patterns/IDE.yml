@@ -1,7 +1,0 @@
-name: IDE
-pattern: (?<=^|[\s.-])IDE\b
-description: ''
-tags:
-- Release Group
-- Bluray
-tests: []

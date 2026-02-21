@@ -1,7 +1,0 @@
-name: ABEMA
-pattern: \b(ABEMA[ ._-]?(TV)?)\b
-description: ''
-tags:
-- Anime
-- Streaming Service
-tests: []

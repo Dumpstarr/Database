@@ -1,7 +1,0 @@
-name: 1XBET
-pattern: \b(1XBET)\b
-description: ''
-tags:
-- Banned
-- Release Group
-tests: []

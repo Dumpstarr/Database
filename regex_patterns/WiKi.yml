@@ -1,7 +1,0 @@
-name: WiKi
-pattern: (?<=^|[\s.-])WiKi\b
-description: Banned for Upscale
-tags:
-- Release Group
-- Bluray
-tests: []

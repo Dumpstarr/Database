@@ -1,7 +1,0 @@
-name: B-Global
-pattern: \b(B[ .-]?Global)\b
-description: ''
-tags:
-- Anime
-- Streaming Service
-tests: []

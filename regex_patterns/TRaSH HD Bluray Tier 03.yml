@@ -1,7 +1,0 @@
-name: TRaSH HD Bluray Tier 03
-pattern: (?<=^|[\s.-])(ATELiER|BHDStudio|hallowed|HiFi|HONE|LoRD|playHD|SPHD|W4NK3R)\b
-description: ''
-tags:
-- TRaSH
-- Release Group Tier
-tests: []

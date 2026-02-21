@@ -1,7 +1,0 @@
-name: Dumpstarr Anime Tier 3
-pattern: (?i)(?:^\[|(?<=-)|(?<=\[))(?:AkihitoSubs|Beatrice[._-]?Raws|Tenrai[._-]?Sensei|Vivid)(?:\]|\b|$)
-description: ''
-tags:
-- Anime
-- Release Group
-tests: []

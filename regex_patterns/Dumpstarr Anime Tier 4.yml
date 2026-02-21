@@ -1,7 +1,0 @@
-name: Dumpstarr Anime Tier 4
-pattern: (?i)(?:^\[|(?<=-)|(?<=\[))(?:SubsPlease|Erai[._-]?Raws|Commie|Nyaa|SAM)(?:\]|\b|$)
-description: ''
-tags:
-- Anime
-- Release Group
-tests: []

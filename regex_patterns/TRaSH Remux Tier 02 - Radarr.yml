@@ -1,7 +1,0 @@
-name: TRaSH Remux Tier 02 - Radarr
-pattern: (?<=^|[\s.-])(NCmt|playBD|SiCFoI|SURFINBIRD|TEPES)\b
-description: ''
-tags:
-- TRaSH
-- Release Group Tier
-tests: []

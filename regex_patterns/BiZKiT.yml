@@ -1,7 +1,0 @@
-name: BiZKiT
-pattern: (?<=^|[\s.-])BiZKiT\b
-description: ''
-tags:
-- Release Group
-- Remux
-tests: []

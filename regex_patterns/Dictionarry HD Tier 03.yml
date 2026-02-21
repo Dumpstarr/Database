@@ -1,7 +1,0 @@
-name: Dictionarry HD Tier 03
-pattern: (?<=^|[\s.-])(BV|CRiSC|decibeL|FoRM|HiDt|HiP|iFT|SbR|WMING)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

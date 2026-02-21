@@ -1,7 +1,0 @@
-name: TRaSH Anime Bluray Tier 6
-pattern: (?i)(?:^\[|(?<=-)|(?<=\[))(?:Afro|Akai|Almighty|ANE|Asenshi|BlurayDesuYo|Bunny-Apocalypse|CH|EJF|Exiled-Destiny|FFF|Final8|GS|Harunatsu|Impatience|Inka-Subs|Judgement|Kantai|LCE|Licca|Nii-sama|niizk|Nishi-Taku|OnDeed|orz|PAS|peachflavored|Saizen|SCP-2223|SHiN-gx|SmugCat|Soldado|Sushi|Vivid|Watashi|Yabai|YURASUKA|Zurako)(?:\]|\b|$)
-description: TRaSH Guides Anime Tier 06 (FanSubs)
-tags:
-- Anime
-- Release Group
-tests: []

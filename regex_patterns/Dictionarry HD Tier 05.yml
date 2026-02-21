@@ -1,7 +1,0 @@
-name: Dictionarry HD Tier 05
-pattern: (?<=^|[\s.-])(AJP69|ATELiER|BSTD|Chotab|CJ|CRX|Dariush|E.N.D|E1|EA|EDPH|ESiR|EXCiSION|FraMeSToR|GALAXY|GS88|hdalx|HQMUX|KASHMiR|Kitsune|LiNG|luvBB|NiBuRu|nmd|NyHD|ORiGEN|Penumbra|playHD|Positive|PTer|RiCO|rightSIZE|RO|rttr|SaNcTi|SiMPLE|SOP|SPHD|TBB|TDD|TnP|VLAD|W4NK3R|WiLF|xander|ZIMBO)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

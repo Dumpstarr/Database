@@ -1,7 +1,0 @@
-name: Ao
-pattern: (?<=^|[\s.-])(Ao|RakuvArrow)\b
-description: ''
-tags:
-- Release Group
-- WEB-DL
-tests: []

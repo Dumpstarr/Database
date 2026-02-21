@@ -1,7 +1,0 @@
-name: TRaSH Remux Tier 01 - Radarr
-pattern: (?<=^|[\s.-])(3L|BiZKiT|BLURANiUM|BMF|CiNEPHiLES|FraMeSToR|PiRAMiDHEAD|PmP|WiLDCAT|ZQ)\b
-description: ''
-tags:
-- TRaSH
-- Release Group Tier
-tests: []

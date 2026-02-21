@@ -1,7 +1,0 @@
-name: hallowed
-pattern: ^(hallowed)$
-description: ''
-tags:
-- Release Group
-- Bluray
-tests: []

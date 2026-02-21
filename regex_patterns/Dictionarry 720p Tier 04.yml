@@ -1,7 +1,0 @@
-name: Dictionarry 720p Tier 04
-pattern: (?<=^|[\s.-])(D-Z0N3|Dariush|decibeL|EA|FoRM|NTb|PTer|Skazhutin|TDD|ThD)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

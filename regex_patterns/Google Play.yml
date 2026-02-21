@@ -1,7 +1,0 @@
-name: Google Play
-pattern: \b(Play)\b(?=[ ._-]web[ ._-]?(dl|rip)\b)
-description: ''
-tags:
-- TRaSH
-- Streaming Service
-tests: []

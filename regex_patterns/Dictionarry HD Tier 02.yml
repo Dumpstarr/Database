@@ -1,7 +1,0 @@
-name: Dictionarry HD Tier 02
-pattern: (?<=^|[\s.-])(c0kE|CtrlHD|D-Z0N3|EbP|Geek|HiFi|LoRD|TayTo|VietHD|ZQ)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

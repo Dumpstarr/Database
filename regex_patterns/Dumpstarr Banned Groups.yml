@@ -1,7 +1,0 @@
-name: Dumpstarr Banned Groups
-pattern: (?<=^|[\s.-])(DEiMOS|MIRCrew|MuTT|TiZU|Tofu4U)\b
-description: ''
-tags:
-- Release Group
-- Banned
-tests: []

@@ -1,6 +1,0 @@
-name: KamiFS
-pattern: \b(KamiFS)\b
-description: ''
-tags:
-- Anime
-tests: []

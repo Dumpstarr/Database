@@ -1,7 +1,0 @@
-name: FLAME
-pattern: (?<=^|[\s.-])FLAME\b
-description: ''
-tags:
-- Release Group
-- Bluray
-tests: []

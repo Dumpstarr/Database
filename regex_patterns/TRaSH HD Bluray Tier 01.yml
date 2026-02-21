@@ -1,7 +1,0 @@
-name: TRaSH HD Bluray Tier 01
-pattern: (?<=^|[\s.-])(BBQ|BMF|c0kE|Chotab|CRiSC|CtrlHD|D-Z0N3|Dariush|decibeL|DON|EbP|EDPH|Geek|LolHD|NCmt|PTer|TayTO|TDD|TnP|VietHD|ZQ|ZoroSenpai)\b
-description: ''
-tags:
-- TRaSH
-- Release Group Tier
-tests: []

@@ -1,6 +1,0 @@
-name: DRX
-pattern: ^(DRX)$
-description: ''
-tags:
-- Banned
-tests: []

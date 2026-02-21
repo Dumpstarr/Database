@@ -1,7 +1,0 @@
-name: TrueHD Missing Groups
-pattern: \b(CtrlHD|DON|EPSiLON|JustWatch|NoGroup|PmP|TRiToN|W4NK3R)\b
-description: ''
-tags:
-- TrueHD
-- Audio
-tests: []

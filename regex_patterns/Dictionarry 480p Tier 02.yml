@@ -1,7 +1,0 @@
-name: Dictionarry 480p Tier 02
-pattern: (?<=^|[\s.-])(c0kE|Dariush|HaB|TBB)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

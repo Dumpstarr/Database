@@ -1,7 +1,0 @@
-name: Dictionarry 720p Tier 02
-pattern: (?<=^|[\s.-])(c0kE|CRiSC|CtrlHD|EbP|HiDt|HiFi|IDE|SbR|TayTo|VietHD|ZQ)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

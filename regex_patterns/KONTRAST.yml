@@ -1,7 +1,0 @@
-name: KONTRAST
-pattern: (?<=^|[\s.-])KONTRAST\b
-description: ''
-tags:
-- Release Group
-- WEB-DL
-tests: []

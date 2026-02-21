@@ -1,7 +1,0 @@
-name: TRaSH WEB Tier 02
-pattern: (?<=^|[\s.-])(dB|Flights|MiU|monkee|MZABI|PHOENiX|playWEB|RDNYB|SbR|SMURF|TOMMY|XEBEC)\b
-description: ''
-tags:
-- TRaSH
-- Release Group Tier
-tests: []

@@ -1,7 +1,0 @@
-name: TRaSH Remux Tier 01 - Sonarr
-pattern: (?<=^|[\s.-])(BLURANiUM|BMF|FraMeSToR|PmP)\b
-description: ''
-tags:
-- TRaSH
-- Release Group Tier
-tests: []

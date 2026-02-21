@@ -1,7 +1,0 @@
-name: Google Play Rename
-pattern: \[(Play)\b|\b(Play)\]
-description: ''
-tags:
-- TRaSH
-- Streaming Service
-tests: []

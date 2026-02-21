@@ -1,7 +1,0 @@
-name: Dictionarry WEB Tier 03
-pattern: (?<=^|[\s.-])(ABM|AJP69|BLUTONiUM|BTW|CasStudio|Cinefeel|CRFW|CtrlHD|HHWEB|KHN|KiNGS|LAZY|monkee|MZABI|NOSiViD|NPMS|NTG|QOQ|RAWR|SA89|SbR|SMURF|TeamSyndicate|TOMMY|TVSmash|WELP|XEBEC|ZoroSenpai)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

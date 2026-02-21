@@ -1,6 +1,0 @@
-name: HONE
-pattern: (?<=^|[\s.-])(DiscoD|HONE|Yogi)\b
-description: ''
-tags:
-- Release Group
-tests: []

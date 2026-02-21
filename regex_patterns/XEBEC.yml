@@ -1,7 +1,0 @@
-name: XEBEC
-pattern: (?<=^|[\s.-])XEBEC\b
-description: ''
-tags:
-- Release Group
-- WEB-DL
-tests: []

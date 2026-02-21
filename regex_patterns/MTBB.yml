@@ -1,7 +1,0 @@
-name: MTBB
-pattern: (?<=^|[\s.-])MTBB\b
-description: ''
-tags:
-- Release Group
-- Anime
-tests: []

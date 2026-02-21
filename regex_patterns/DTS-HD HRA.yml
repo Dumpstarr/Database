@@ -1,7 +1,0 @@
-name: DTS-HD HRA
-pattern: dts[-. ]?(hd[. ]?)?(hra?|hi\b)
-description: ''
-tags:
-- Audio
-- Codec
-tests: []

@@ -1,6 +1,0 @@
-name: Not Repack Proper 3
-pattern: \b((repack|proper)3)\b|\bREAL\.(REAL\.)(PROPER|REPACK)\b
-description: ''
-tags:
-- TRaSH
-tests: []

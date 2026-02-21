@@ -1,7 +1,0 @@
-name: Dictionarry UHD Tier 05
-pattern: (?<=^|[\s.-])(4KDVS|b0mbardiers|DEFLATE|DEPTH|j3rico|JustWatch|ORBiT|SURCODE|WATCHABLE|WiKi)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

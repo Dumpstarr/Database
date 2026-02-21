@@ -1,6 +1,0 @@
-name: v0
-pattern: (\b|\d)(v0)\b
-description: ''
-tags:
-- Anime
-tests: []

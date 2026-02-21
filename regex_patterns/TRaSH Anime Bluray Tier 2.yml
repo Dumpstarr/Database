@@ -1,7 +1,0 @@
-name: TRaSH Anime Bluray Tier 2
-pattern: (?i)(?:^\[|(?<=-)|(?<=\[))(?:0x539|Alt|ARC|Arid|aro|Asakura|Baws|BKC|Brrrrrrr|Chotab|Crow|CsS|CUNNY|Cunnysseur|D-Z0N3|Dae|Datte13|DemiHuman|Drag|FLFL|hydes|iKaos|JySzE|LostYears|Lulu|Matsya|MC|McBalls|Metal|Moxie|MTBB|Not-Vodes|Noyr|NSDAB|Okay-Subs|pog42|pyroneko|RAI|Reza|Shimatta|Smoke|Spirale|Thighs|UDF|Yuki)(?:\]|\b|$)
-description: TRaSH Guides Anime Tier 02 (SeaDex Muxers)
-tags:
-- Anime
-- Release Group
-tests: []

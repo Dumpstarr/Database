@@ -1,0 +1,29 @@
+{
+    "name": "Dumpstarr",
+    "version": "2.0.0",
+    "description": "Official Dumpstarr Database",
+    "arr_types": ["radarr", "sonarr"],
+
+    "dependencies": {
+        "https://github.com/Dictionarry-Hub/schema": "1.0.0"
+    },
+
+    "authors": [
+        {
+            "name": "sweatyeggs69"
+        }
+    ],
+
+    "license": "MIT",
+    "repository": "https://github.com/Dumpstarr/Dumpstarr",
+
+
+    "links": {
+        "homepage": "https://github.com/Dumpstarr",
+        "issues": "https://discord.com/invite/TbYW2Q4hGv"
+    },
+
+    "profilarr": {
+        "minimum_version": "2.0.0"
+    }
+}

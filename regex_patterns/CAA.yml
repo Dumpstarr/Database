@@ -1,8 +1,0 @@
-name: CAA
-pattern: ^(C\\.A\\.A)$
-description: ''
-tags:
-- TRaSH
-- Banned
-- Release Group
-tests: []

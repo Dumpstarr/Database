@@ -1,7 +1,0 @@
-name: CRFW
-pattern: (?<=^|[\s.-])CRFW\b
-description: ''
-tags:
-- Release Group
-- WEB-DL
-tests: []

@@ -1,7 +1,0 @@
-name: TRaSH WEB Tier 01
-pattern: (?<=^|[\s.-])(ABBIE|AJP69|APEX|BLUTONiUM|BYNDR|CMRG|CRFW|CRUD|FLUX|GNOME|HONE|KiNGS|Kitsune|NOSiViD|NTb|NTG|RAWR|SiC|TEPES|TheFarm|ZoroSenpai)\b
-description: ''
-tags:
-- TRaSH
-- Release Group Tier
-tests: []

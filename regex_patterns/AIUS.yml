@@ -1,7 +1,0 @@
-name: AIUS
-pattern: \b(AIUS)\b
-description: ''
-tags:
-- TRaSH
-- Banned
-tests: []

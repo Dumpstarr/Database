@@ -1,7 +1,0 @@
-name: Arid
-pattern: (?<=^|[\s.-])Arid\b
-description: ''
-tags:
-- Release Group
-- Anime
-tests: []

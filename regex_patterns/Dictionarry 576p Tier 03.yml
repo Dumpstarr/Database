@@ -1,7 +1,0 @@
-name: Dictionarry 576p Tier 03
-pattern: (?<=^|[\s.-])(EDPH|GS88|KnG|PTer|rttr|ZIMBO)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

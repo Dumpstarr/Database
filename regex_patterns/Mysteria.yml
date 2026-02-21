@@ -1,7 +1,0 @@
-name: Mysteria
-pattern: (?<=^|[\s.-])Mysteria\b
-description: ''
-tags:
-- Release Group
-- Anime
-tests: []

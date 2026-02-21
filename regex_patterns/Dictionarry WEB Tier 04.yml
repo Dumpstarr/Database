@@ -1,7 +1,0 @@
-name: Dictionarry WEB Tier 04
-pattern: (?<=^|[\s.-])(APEX|BTN|dB|PTP|RTN|SiC|SPiRiT|ViSUM)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

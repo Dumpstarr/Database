@@ -1,7 +1,0 @@
-name: HDChina
-pattern: (?<=^|[\s.-])HDChina\b
-description: ''
-tags:
-- Release Group
-- Bluray
-tests: []

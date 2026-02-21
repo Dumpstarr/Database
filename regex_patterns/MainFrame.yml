@@ -1,7 +1,0 @@
-name: MainFrame
-pattern: (?<=^|[\s.-])MainFrame\b
-description: ''
-tags:
-- Release Group
-- Bluray
-tests: []

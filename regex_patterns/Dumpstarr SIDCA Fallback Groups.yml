@@ -1,6 +1,0 @@
-name: Dumpstarr SIDCA Fallback Groups
-pattern: (?<=^|[\s.-])(ASTRiD|CBFM|CtrlHD|DARKFLiX|DEFLATE|EDPH|HANDJOB|HODL|iVy|KONTRAST|MacP|PLUTONiUM|PHOCiS|RARBG|ViETNAM|YAWNiX|YIFY|YTS)\b
-description: ''
-tags:
-- LQ
-tests: []

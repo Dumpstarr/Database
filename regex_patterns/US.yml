@@ -1,6 +1,0 @@
-name: US
-pattern: \bUS\b
-description: Matches United States versions
-tags:
-- Version
-tests: []

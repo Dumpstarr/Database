@@ -1,7 +1,0 @@
-name: TRaSH UHD Bluray Tier 01
-pattern: (?<=^|[\s.-])(CtrlHD|MainFrame|DON|W4NK3R)\b
-description: ''
-tags:
-- TRaSH
-- Release Group Tier
-tests: []

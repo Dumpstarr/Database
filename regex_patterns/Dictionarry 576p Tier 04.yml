@@ -1,7 +1,0 @@
-name: Dictionarry 576p Tier 04
-pattern: (?<=^|[\s.-])(HANDJOB|PTP)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

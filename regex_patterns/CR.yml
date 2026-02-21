@@ -1,7 +1,0 @@
-name: CR
-pattern: \b(C(runchy)?[ .-]?R(oll)?)\b
-description: ''
-tags:
-- Anime
-- Streaming Service
-tests: []

@@ -1,7 +1,0 @@
-name: REBORN
-pattern: (?<=^|[\s.-])REBORN\b
-description: ''
-tags:
-- Release Group
-- Bluray
-tests: []

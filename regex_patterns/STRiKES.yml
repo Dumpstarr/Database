@@ -1,7 +1,0 @@
-name: STRiKES
-pattern: (?<=^|[\s.-])STRiKES\b
-description: ''
-tags:
-- Release Group
-- Bluray
-tests: []

@@ -1,7 +1,0 @@
-name: PussyFoot
-pattern: (?<=^|[\s.-])PussyFoot\b
-description: ''
-tags:
-- Release Group
-- Bluray
-tests: []

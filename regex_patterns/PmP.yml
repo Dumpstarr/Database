@@ -1,7 +1,0 @@
-name: PmP
-pattern: (?<=^|[\s.-])PmP\b
-description: ''
-tags:
-- Release Group
-- Remux
-tests: []

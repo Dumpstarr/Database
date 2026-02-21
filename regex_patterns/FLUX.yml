@@ -1,7 +1,0 @@
-name: FLUX
-pattern: (?<=^|[\s.-])FLUX\b
-description: ''
-tags:
-- Release Group
-- WEB-DL
-tests: []

@@ -1,7 +1,0 @@
-name: ROCCaT
-pattern: (?<=^|[\s.-])ROCCaT\b
-description: ''
-tags:
-- Release Group
-- WEB-DL
-tests: []

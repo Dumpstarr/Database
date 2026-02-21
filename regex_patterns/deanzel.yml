@@ -1,7 +1,0 @@
-name: deanzel
-pattern: (?<=^|[\s.-])deanzel\b
-description: ''
-tags:
-- Release Group
-- Anime
-tests: []

@@ -1,7 +1,0 @@
-name: TRaSH Anime WEB Tier 1
-pattern: (?i)(?:^\[|(?<=-)|(?<=\[))(?:Arg0|Arid|Baws|LostYears|LYS1TH3A|McBalls|sam|SCY|Setsugen|smol|SoM|Vodes|Z4ST1N|ZeroBuild)(?:\]|\b|$)
-description: TRaSH Guides Anime Web Tier 01 (Muxers)
-tags:
-- Anime
-- Release Group
-tests: []

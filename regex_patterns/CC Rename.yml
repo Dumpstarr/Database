@@ -1,7 +1,0 @@
-name: CC Rename
-pattern: \[(CC)\b|\b(CC)\]
-description: ''
-tags:
-- TRaSH
-- Streaming Service
-tests: []

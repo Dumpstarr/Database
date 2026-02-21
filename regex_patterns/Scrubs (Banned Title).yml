@@ -1,7 +1,0 @@
-name: Scrubs (Banned Title)
-pattern: \bBonus\.(?:\w+\.?)+
-description: ''
-tags:
-- Scrubs
-- Custom
-tests: []

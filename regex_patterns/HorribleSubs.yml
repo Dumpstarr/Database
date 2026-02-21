@@ -1,7 +1,0 @@
-name: HorribleSubs
-pattern: (?<=^|[\s.-])HorribleSubs\b
-description: ''
-tags:
-- Release Group
-- Anime
-tests: []

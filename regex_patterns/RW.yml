@@ -1,7 +1,0 @@
-name: RW
-pattern: \b(RW)\b
-description: ''
-tags:
-- Upscale
-- TRaSH
-tests: []

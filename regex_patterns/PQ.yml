@@ -1,7 +1,0 @@
-name: PQ
-pattern: \b(PQ)\b
-description: ''
-tags:
-- HDR
-- TRaSH
-tests: []

@@ -1,7 +1,0 @@
-name: SasukeducK
-pattern: (?<=^|[\s.-])SasukeducK\b
-description: Banned for Fake DV/HDR Layer
-tags:
-- Release Group
-- Banned
-tests: []

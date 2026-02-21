@@ -1,7 +1,0 @@
-name: Anime Raws
-pattern: (?i)(?:^\[|(?<=-)|(?<=\[))(?:Beatrice-Raws|Daddy-Raws|Fumi-Raws|IrizaRaws|Kawaiika-Raws|Koi-Raws|Lilith-Raws|LowPower-Raws|NanakoRaws|NC-Raws|neko-raws|New-raws|Ohys-Raws|Pandoratv-Raws|Raws-Maji|Scryous-Raws|Seicher-Raws|Shiniori-Raws|AsukaRaws|ReinForce|Moozzi2|km)(?:\]|\b|$)
-description: ''
-tags:
-- Anime
-- Banned
-tests: []

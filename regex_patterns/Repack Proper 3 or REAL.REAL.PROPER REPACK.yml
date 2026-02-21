@@ -1,6 +1,0 @@
-name: Repack Proper 3 or REAL.REAL.PROPER REPACK
-pattern: \b((repack|proper)3)\b|\b(REAL\.REAL\.(PROPER|REPACK))\b
-description: ''
-tags:
-- TRaSH
-tests: []

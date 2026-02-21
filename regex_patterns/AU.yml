@@ -1,6 +1,0 @@
-name: AU
-pattern: \bAU\b
-description: Matches Australian versions
-tags:
-- Version
-tests: []

@@ -1,7 +1,0 @@
-name: WADU
-pattern: (?<=^|[\s.-])WADU\b
-description: Banned for Retagging
-tags:
-- Release Group
-- Banned
-tests: []

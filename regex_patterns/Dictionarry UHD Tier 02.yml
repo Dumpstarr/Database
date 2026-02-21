@@ -1,7 +1,0 @@
-name: Dictionarry UHD Tier 02
-pattern: (?<=^|[\s.-])(CtrlHD|MainFrame|W4NK3R)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

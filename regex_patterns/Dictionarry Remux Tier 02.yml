@@ -1,7 +1,0 @@
-name: Dictionarry Remux Tier 02
-pattern: (?<=^|[\s.-])(BMF|FraMeSToR|LM|PiRAMiDHEAD|PmP|PP|ZoroSenpai|ZQ)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

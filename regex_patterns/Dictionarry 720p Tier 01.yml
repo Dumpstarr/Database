@@ -1,7 +1,0 @@
-name: Dictionarry 720p Tier 01
-pattern: (?<=^|[\s.-])(DON|REBORN|SoLaR|TeamSyndicate|ZoroSenpai)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

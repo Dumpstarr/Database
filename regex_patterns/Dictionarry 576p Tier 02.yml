@@ -1,7 +1,0 @@
-name: Dictionarry 576p Tier 02
-pattern: (?<=^|[\s.-])(BV|c0kE|Dariush|HaB|TBB|ZQ)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

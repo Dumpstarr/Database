@@ -1,6 +1,0 @@
-name: Scrubs Approved Groups
-pattern: (?<=^|[\s.-])(BoOk|BMF|DEFiANCE|FoV|GAMEOVER|NTROPiC-FTP|SiNNERS)\b
-description: ''
-tags:
-- Scrubs
-tests: []

@@ -1,7 +1,0 @@
-name: playWEB
-pattern: (?<=^|[\s.-])playWEB\b
-description: ''
-tags:
-- Release Group
-- WEB-DL
-tests: []

@@ -1,6 +1,0 @@
-name: PHOENiX
-pattern: (?<=^|[\s.-])PHOENiX\b
-description: Matches "PHOENiX" when preceded by whitespace, a hyphen or dot
-tags:
-- Release Group
-tests: []

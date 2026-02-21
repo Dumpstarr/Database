@@ -1,7 +1,0 @@
-name: TERMiNAL
-pattern: (?<=^|[\s.-])TERMiNAL\b
-description: ''
-tags:
-- Release Group
-- Bluray
-tests: []

@@ -1,7 +1,0 @@
-name: SiCFoI
-pattern: (?<=^|[\s.-])SiCFoI\b
-description: ''
-tags:
-- Release Group
-- Remux
-tests: []

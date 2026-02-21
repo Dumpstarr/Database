@@ -1,9 +1,0 @@
-name: DarQ
-pattern: (?<=^|[\s.-])DarQ\b$
-description: ''
-tags:
-- Release Group
-tests:
-- id: 1
-  input: Brave-2012-2160p DSNP WEB-DL Hybrid H265 DV HDR DDP Atmos 5.1 English-HONE-REPACK
-  expected: false

@@ -1,7 +1,0 @@
-name: The Upscaler
-pattern: \b(The[ ._-]?Upscaler)\b
-description: ''
-tags:
-- TRaSH
-- Banned
-tests: []

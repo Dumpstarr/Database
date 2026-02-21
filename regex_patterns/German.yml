@@ -1,7 +1,0 @@
-name: German
-pattern: \b(GERMAN)$
-description: ''
-tags:
-- Language
-- German
-tests: []

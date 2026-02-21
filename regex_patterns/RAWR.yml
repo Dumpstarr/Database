@@ -1,7 +1,0 @@
-name: RAWR
-pattern: (?<=^|[\s.-])RAWR\b
-description: ''
-tags:
-- Release Group
-- WEB-DL
-tests: []

@@ -1,7 +1,0 @@
-name: Geek
-pattern: (?<=^|[\s.-])Geek\b
-description: ''
-tags:
-- Release Group
-- Bluray
-tests: []

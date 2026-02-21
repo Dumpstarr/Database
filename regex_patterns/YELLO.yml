@@ -1,7 +1,0 @@
-name: YELLO
-pattern: (?<=^|[\s.-])YELLO\b
-description: ''
-tags:
-- Release Group
-- HEVC
-tests: []

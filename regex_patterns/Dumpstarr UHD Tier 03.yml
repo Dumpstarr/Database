@@ -1,5 +1,0 @@
-name: Dumpstarr UHD Tier 03
-pattern: (?<=^|[\s.-])(DarQ|DiscoD|HONE|Yogi)\b
-description: ''
-tags: []
-tests: []

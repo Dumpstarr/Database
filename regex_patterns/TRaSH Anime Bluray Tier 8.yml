@@ -1,7 +1,0 @@
-name: TRaSH Anime Bluray Tier 8
-pattern: (?i)(?:^\\[|(?<=-)|(?<=\\[))(?:AkihitoSubs|Arukoru|EDGE|EMBER|GHOST|Judas|Nep_Blanc|naiyas|Prof|Shir\u03C3\)(?:\\]|\\b|$)
-description: TRaSH Guides Anime Tier 08 (Mini Encodes)
-tags:
-- Anime
-- Release Group
-tests: []

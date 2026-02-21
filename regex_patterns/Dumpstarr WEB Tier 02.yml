@@ -1,7 +1,0 @@
-name: Dumpstarr WEB Tier 02
-pattern: (?<=^|[\s.-])(DiscoD|Yogi)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

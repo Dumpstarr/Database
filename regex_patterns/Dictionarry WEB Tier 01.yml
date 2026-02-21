@@ -1,7 +1,0 @@
-name: Dictionarry WEB Tier 01
-pattern: (?<=^|[\s.-])(FLUX|NTb|TheFarm)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

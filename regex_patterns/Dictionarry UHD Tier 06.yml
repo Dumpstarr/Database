@@ -1,7 +1,0 @@
-name: Dictionarry UHD Tier 06
-pattern: (?<=^|[\s.-])(ADE|AViATOR|beAst|BeiTai|CHD|CMCT|EMERALD|FLAME|GUHZER|HDChina|HDmux|HypStu|IAMABLE|KAN3D2M|LAZARUS|MiMiC|PussyFoot|ReaLHD|ReQuEsT|STRiKES|SWTYBLZ|TERMiNAL|ULTRAHDCLUB|WhiteRhino)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

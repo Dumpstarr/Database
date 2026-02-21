@@ -1,7 +1,0 @@
-name: FoV
-pattern: ^(FoV)$
-description: ''
-tags:
-- Release Group
-- Scrubs
-tests: []

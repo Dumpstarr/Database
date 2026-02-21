@@ -1,6 +1,0 @@
-name: Weasley
-pattern: (?<=^|[\s.-])Weasley\b$
-description: ''
-tags:
-- Release Group
-tests: []

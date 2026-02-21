@@ -1,8 +1,0 @@
-name: House Season 6
-pattern: ^(Dr\.\s*)?House.*S06.*-(d3g|DBTV|DUSKLiGHT|HONE|NERO|NINJACENTRAL|LiPAN|SiGMA|TVARCHiV|WADU).*
-description: Matches releases for season 6 of the show House from groups that do not
-  follow the TVDB ordering.
-tags:
-- Custom
-- Banned
-tests: []

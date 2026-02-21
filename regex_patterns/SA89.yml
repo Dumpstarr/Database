@@ -1,7 +1,0 @@
-name: SA89
-pattern: (?<=^|[\s.-])SA89\b
-description: ''
-tags:
-- Release Group
-- Bluray
-tests: []

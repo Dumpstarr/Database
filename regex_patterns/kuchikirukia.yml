@@ -1,7 +1,0 @@
-name: kuchikirukia
-pattern: (?<=^|[\s.-])kuchikirukia\b
-description: ''
-tags:
-- Release Group
-- Anime
-tests: []

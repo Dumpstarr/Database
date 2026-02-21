@@ -1,7 +1,0 @@
-name: TEKNO3D
-pattern: \b(TEKNO3D)\b
-description: Banned for Fake DV/HDR Layer
-tags:
-- Release Group
-- Banned
-tests: []

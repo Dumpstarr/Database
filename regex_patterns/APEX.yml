@@ -1,7 +1,0 @@
-name: APEX
-pattern: (?<=^|[\s.-])(APEX|PAXA|PEXA|XEPA)\b
-description: ''
-tags:
-- Release Group
-- WEB-DL
-tests: []

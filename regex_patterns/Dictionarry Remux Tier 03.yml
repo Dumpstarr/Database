@@ -1,7 +1,0 @@
-name: Dictionarry Remux Tier 03
-pattern: (?<=^|[\s.-])(ATELiER|decibeL|EPSiLON|HiFi|NCmt|SiCFoI|TEPES)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

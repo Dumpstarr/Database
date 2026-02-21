@@ -1,7 +1,0 @@
-name: LittleBakas
-pattern: (?<=^|[\s.-])LittleBakas\b
-description: ''
-tags:
-- Release Group
-- Bluray
-tests: []

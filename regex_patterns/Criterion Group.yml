@@ -1,7 +1,0 @@
-name: Criterion Group
-pattern: ^(Criterion)$
-description: ''
-tags:
-- TRaSH
-- Release Group
-tests: []

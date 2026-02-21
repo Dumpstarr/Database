@@ -1,8 +1,0 @@
-name: x266
-pattern: '[xh][ ._-]?266|\bVVC(\b|\d)'
-description: Versatile Video Coding (VVC), also known as H.266, ISO/IEC 23090-3, and
-  MPEG-I Part 3, is a video compression standard finalized on 6 July 2020.
-tags:
-- VVC
-- Codec
-tests: []

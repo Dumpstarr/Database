@@ -1,7 +1,0 @@
-name: BEN THE MEN
-pattern: (?<=^|[\s.-])(BEN[ ._-]THE[ ._-]MEN|BEN|BTM)\b
-description: ''
-tags:
-- Release Group
-- WEB-DL
-tests: []

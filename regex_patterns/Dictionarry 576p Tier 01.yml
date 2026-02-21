@@ -1,7 +1,0 @@
-name: Dictionarry 576p Tier 01
-pattern: (?<=^|[\s.-])(SoLaR|ZoroSenpai)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

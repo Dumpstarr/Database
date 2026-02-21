@@ -1,7 +1,0 @@
-name: TheFarm
-pattern: (?<=^|[\s.-])TheFarm\b
-description: ''
-tags:
-- Release Group
-- WEB-DL
-tests: []

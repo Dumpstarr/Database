@@ -1,6 +1,0 @@
-name: LeagueWEB
-pattern: (?<=^|[\s.-])LeagueWEB\b
-description: ''
-tags:
-- Release Group
-tests: []

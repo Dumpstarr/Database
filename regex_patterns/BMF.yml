@@ -1,8 +1,0 @@
-name: BMF
-pattern: (?<=^|[\s.-])BMF\b
-description: ''
-tags:
-- Release Group
-- Remux
-- Bluray
-tests: []

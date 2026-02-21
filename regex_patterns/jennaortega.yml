@@ -1,7 +1,0 @@
-name: jennaortega
-pattern: (?<!-)\b(jennaortega(UHD)?)\b
-description: ''
-tags:
-- Release Group
-- Banned
-tests: []

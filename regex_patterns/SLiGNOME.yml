@@ -1,7 +1,0 @@
-name: SLiGNOME
-pattern: (?<=^|[\s.-])SLiGNOME\b
-description: ''
-tags:
-- Release Group
-- WEB-DL
-tests: []

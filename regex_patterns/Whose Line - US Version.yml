@@ -1,7 +1,0 @@
-name: Whose Line - US Version
-pattern: '[\.\s\-(\[]US[\.\s\-)\]]|[\.\s\-]S(?:0[89]|[1-9]\d)E|\b(?:AMZN|(?:AMAZON)(?=\s*.(?:WEB-?DL|WEBRIP)))\b|\bCWS\b|\b(?:PCOK|(?:Peacock)(?=\s*.(?:WEB-?DL|WEBRIP)))\b|\b(?:HMAX|HBOM|(?:HBO[
-  ._-]?MAX)(?=\s*.(?:WEB-?DL|WEBRIP)))\b|\b(?:NF|Netflix)\b|\b(?:PMTP|Paramount Plus)\b|\(1998\)|S\d+E\d+\.\d{4}\.\d{2}\.\d{2}|(?:\.e\d{3}(?:$|[^a-z])|\(e\d{3}\))|(?:\d+x\d+[\s.]*\(?\d{3}|show\.\d{3}|-\d+x\d+-)|S\d+E\d+\.[A-Z][a-z]+\..*(?:HDTV|DVDRip)'
-description: ''
-tags:
-- Version
-tests: []

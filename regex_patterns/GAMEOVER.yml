@@ -1,7 +1,0 @@
-name: GAMEOVER
-pattern: ^(GAMEOVER)$
-description: ''
-tags:
-- Scrubs
-- Release Group
-tests: []

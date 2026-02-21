@@ -1,7 +1,0 @@
-name: ANE
-pattern: (?<=^|[\s.-])ANE\b
-description: ''
-tags:
-- Release Group
-- Anime
-tests: []

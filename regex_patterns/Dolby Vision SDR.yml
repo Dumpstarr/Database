@@ -1,7 +1,0 @@
-name: Dolby Vision SDR
-pattern: \b(DV[ .]SDR)\b
-description: ''
-tags:
-- SDR
-- Dolby Vision
-tests: []

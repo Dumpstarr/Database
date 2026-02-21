@@ -1,7 +1,0 @@
-name: SiC
-pattern: (?<=^|[\s.-])SiC\b
-description: ''
-tags:
-- Release Group
-- WEB-DL
-tests: []

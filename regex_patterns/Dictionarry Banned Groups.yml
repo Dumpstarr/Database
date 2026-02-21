@@ -1,8 +1,0 @@
-name: Dictionarry Banned Groups
-pattern: (?<=^|[\s.-])(4K4U|AOC|AROMA|BeyondHD|BiTOR|BLASPHEMY|BOLS|BTM|CLASSiCALHD|CREATiVE24|d3g|DepraveD|DeViSiVE|DRX|E|FGT|Flights|HDS|iVy|jennaortegaUHD|KC|LAMA|MeGusta|MgB|NAHOM|NhaNc3|NoGroup|OEPlus|PSA|RARGB|SasukeducK|SHD|ShieldBearer|STUTTERSHIT|tarunk9c|TEKNO3D|Telly|TvR|VD0N|VECTOR|VisionXpert|x0r|YIFY|YTS)\b
-description: ''
-tags:
-- Release Group
-- Dictionarry
-- Banned
-tests: []

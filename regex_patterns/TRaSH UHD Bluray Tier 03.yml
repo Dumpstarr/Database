@@ -1,7 +1,0 @@
-name: TRaSH UHD Bluray Tier 03
-pattern: (?<=^|[\s.-])(BHDStudio|hallowed|HONE|PTer|SPHD|WEBDV)\b
-description: ''
-tags:
-- TRaSH
-- Release Group Tier
-tests: []

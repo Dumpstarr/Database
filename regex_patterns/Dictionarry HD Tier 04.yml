@@ -1,7 +1,0 @@
-name: Dictionarry HD Tier 04
-pattern: (?<=^|[\s.-])(BMF|de[42]|HDMaNiAcS|IDE|LolHD|NCmt|NTb|Skazhutin)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

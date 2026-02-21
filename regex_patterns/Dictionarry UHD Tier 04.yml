@@ -1,7 +1,0 @@
-name: Dictionarry UHD Tier 04
-pattern: (?<=^|[\s.-])(BlzT|BSTD|EDPH|ESiR|HiDt|iFT|Kitsune|NCmt|NTb|SPHD|TDD)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []

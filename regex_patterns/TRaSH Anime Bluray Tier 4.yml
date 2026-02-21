@@ -1,7 +1,0 @@
-name: TRaSH Anime Bluray Tier 4
-pattern: (?i)(?:^\[|(?<=-)|(?<=\[))(?:9volt|AOmundson|Asakura|ASO|Bolshevik|Bulldog|Cait-Sidhe|Chihiro|Chimera|CoalGirls|Commie|D3|Davinci|deanzel|Doki|Dragon-Releases|Foxtrot|GHS|HaiveMind|hchcsen|Iznjie|Biznjie|Kaleido|karios|kBaraka|kmplx|Koitern|Koten_Gars|Kulot|Lia|MCLR|mottoj|NH|NTRM|Orphan|RMX|SallySubs|Scriptum|ShadyCrab|SNSbu|SOLA|THORA|Tsundere|UWU|xPearse)(?:\]|\b|$)
-description: TRaSH Guides Anime Tier 04 (SeaDex Muxers)
-tags:
-- Anime
-- Release Group
-tests: []

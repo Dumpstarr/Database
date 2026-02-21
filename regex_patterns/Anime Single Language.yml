@@ -1,7 +1,0 @@
-name: Anime Single Language
-pattern: \[(JA|ZH|KO)\]
-description: ''
-tags:
-- Anime
-- TRaSH
-tests: []

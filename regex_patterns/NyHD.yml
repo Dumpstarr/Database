@@ -1,7 +1,0 @@
-name: NyHD
-pattern: (?<=^|[\s.-])NyHD\b
-description: ''
-tags:
-- Release Group
-- Bluray
-tests: []

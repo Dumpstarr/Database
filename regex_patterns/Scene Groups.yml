@@ -1,8 +1,0 @@
-name: Scene Groups
-pattern: ^(CAKES|GGEZ|GGWP|GLHF|GOSSIP|NAISU|KOGI|PECULATE|SLOT|EDITH|ETHEL|ELEANOR|B2B|SPAMnEGGS|FTP|DiRT|SYNCOPY|BAE|SuccessfulCrab|NHTFS|SURCODE|B0MBARDIERS|D3US|BROTHERHOOD|W4K|STRiKES)$
-description: Matches Scene Groups
-tags:
-- Scene
-- Release Group
-- TRaSH
-tests: []

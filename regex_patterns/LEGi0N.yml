@@ -1,7 +1,0 @@
-name: LEGi0N
-pattern: (?<=^|[\s.-])LEGi0N\b
-description: ''
-tags:
-- Release Group
-- Bluray
-tests: []

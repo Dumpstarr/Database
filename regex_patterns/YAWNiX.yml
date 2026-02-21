@@ -1,7 +1,0 @@
-name: YAWNiX
-pattern: (?<=^|[\s.-])YAWNiX\b
-description: ''
-tags:
-- Release Group
-- HEVC
-tests: []

@@ -1,7 +1,0 @@
-name: NOSiViD
-pattern: (?<=^|[\s.-])NOSiViD\b
-description: ''
-tags:
-- Release Group
-- WEB-DL
-tests: []

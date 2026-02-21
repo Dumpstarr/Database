@@ -1,7 +1,0 @@
-name: PTP
-pattern: (?<=^|[\s.-])PTP\b
-description: ''
-tags:
-- Release Group
-- Remux
-tests: []

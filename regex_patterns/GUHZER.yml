@@ -1,7 +1,0 @@
-name: GUHZER
-pattern: (?<=^|[\s.-])GUHZER\b
-description: ''
-tags:
-- Release Group
-- Bluray
-tests: []

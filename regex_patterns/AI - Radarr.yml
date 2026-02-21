@@ -1,8 +1,0 @@
-name: AI - Radarr
-pattern: (?<=\b[12]\d{3}\b).*(\b(AI)\b)
-description: This matches movie releases that are modified with AI.
-tags:
-- AI
-- Banned
-- Radarr
-tests: []

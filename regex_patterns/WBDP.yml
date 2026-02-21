@@ -1,7 +1,0 @@
-name: WBDP
-pattern: (?<=^|[\s.-])WBDP\b
-description: ''
-tags:
-- Release Group
-- Anime
-tests: []

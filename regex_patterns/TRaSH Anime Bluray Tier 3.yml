@@ -1,7 +1,0 @@
-name: TRaSH Anime Bluray Tier 3
-pattern: (?i)(?:^\[|(?<=-)|(?<=\[))(?:AC|ASC|AssMix|Ayashii|CBT|CRUCiBLE|CTR|CyC|Dekinai|EXP|Flugel|Galator|GSK_kun|Headpatter|Holomux|IK|Kaizoku|Kametsu|KH|kuchikirukia|LazyRemux|MK|Mysteria|NAN0|Netaro|Pn8|Pookie|Quetzal|Rasetsu|Senjou|ShowY|WBDP|WSE|Yoghurt|YURI|ZOIO|ZR)(?:\]|\b|$)
-description: TRaSH Guides Anime Tier 03 (SeaDex Muxers)
-tags:
-- Anime
-- Release Group
-tests: []

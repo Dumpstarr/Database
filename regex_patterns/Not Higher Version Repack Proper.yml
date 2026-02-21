@@ -1,6 +1,0 @@
-name: Not Higher Version Repack Proper
-pattern: \b((repack|proper)[23])\b|\bREAL\.(REAL\.)?(PROPER|REPACK)\b
-description: ''
-tags:
-- TRaSH
-tests: []

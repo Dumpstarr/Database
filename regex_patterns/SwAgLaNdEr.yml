@@ -1,7 +1,0 @@
-name: SwAgLaNdEr
-pattern: (?<=^|[\s.-])SwAgLaNdEr\b
-description: ''
-tags:
-- Release Group
-- WEB-DL
-tests: []

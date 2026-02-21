@@ -1,7 +1,0 @@
-name: LoRD
-pattern: (?<=^|[\s.-])LoRD\b
-description: ''
-tags:
-- Release Group
-- Bluray
-tests: []

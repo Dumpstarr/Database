@@ -1,7 +1,0 @@
-name: Dictionarry UHD Tier 03
-pattern: (?<=^|[\s.-])(BV|c0kE|Chotab|D-Z0N3|HQMUX|PTer|TnP)\b
-description: ''
-tags:
-- Release Group Tier
-- Dictionarry
-tests: []
