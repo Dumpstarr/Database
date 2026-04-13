@@ -1,0 +1,29 @@
+name: German DL (undefined)
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#language-german-dl-undefined)'
+tags:
+- TRaSH 
+- Language
+- Audio
+- Release Title
+conditions:
+- name: NOT Original Language
+  negate: true
+  required: true
+  type: language
+  language: original
+- name: German
+  negate: false
+  required: true
+  type: language
+  language: german
+- name: DL
+  negate: false
+  required: false
+  type: release_title
+  pattern: DL
+- name: ML
+  negate: false
+  required: false
+  type: release_title
+  pattern: ML
+tests: []

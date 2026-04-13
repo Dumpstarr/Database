@@ -1,0 +1,7 @@
+name: DL
+pattern: (?<!WEB[-_. ]?)\b(DL)\b
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

@@ -1,0 +1,34 @@
+name: German
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#language-german)'
+tags:
+- TRaSH
+- Language
+- Audio
+- Release Title
+conditions:
+- name: German
+  negate: false
+  required: true
+  type: language
+  language: german
+- name: NOT Original
+  negate: true
+  required: true
+  type: language
+  language: original
+- name: DL
+  negate: true
+  required: true
+  type: release_title
+  pattern: DL
+- name: ML
+  negate: true
+  required: true
+  type: release_title
+  pattern: ML
+- name: Not Subbed
+  negate: true
+  required: true
+  type: release_title
+  pattern: Subbed
+tests: []

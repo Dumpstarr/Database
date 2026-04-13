@@ -1,0 +1,7 @@
+name: ML
+pattern: \b(ML)\b
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []
