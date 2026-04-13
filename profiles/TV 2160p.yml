@@ -18,6 +18,12 @@ custom_formats:
   score: -10000
 custom_formats_radarr: []
 custom_formats_sonarr:
+- name: German DL
+  score: 1800
+- name: German DL (undefined)
+  score: 1775
+- name: German
+  score: 1750
 - name: WEB Tier 01
   score: 1700
 - name: WEB Tier 02

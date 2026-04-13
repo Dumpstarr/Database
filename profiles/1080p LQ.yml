@@ -16,6 +16,12 @@ minCustomFormatScore: 0
 upgradeUntilScore: 10000
 minScoreIncrement: 1
 custom_formats:
+- name: German DL
+  score: 400
+- name: German DL (undefined)
+  score: 375
+- name: German
+  score: 350
 - name: SIDCA Groups
   score: 300
 - name: SIDCA Fallback Groups

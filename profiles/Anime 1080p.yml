@@ -21,6 +21,12 @@ minCustomFormatScore: 0
 upgradeUntilScore: 10000
 minScoreIncrement: 1
 custom_formats:
+- name: German DL
+  score: 1420
+- name: German DL (undefined)
+  score: 1410
+- name: German
+  score: 1405
 - name: Anime Tier 1
   score: 1400
 - name: Anime Tier 2
