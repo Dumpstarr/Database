@@ -1,3 +1,6 @@
+> [!NOTE]
+> The v1 database is deprecated and no longer supported. Please migrate to v2.
+
 # Dumpstarr Database for Profilarr
 
 ## **For a media setup that isn't a dumpster fire :D**
